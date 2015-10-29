@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 MyChaGE
 ASFASFASF
 bb
 MyTest
-=======
-Change done in master
 SS
->>>>>>> master
+MyMasterLine
